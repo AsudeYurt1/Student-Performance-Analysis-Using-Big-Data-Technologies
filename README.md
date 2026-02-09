@@ -1,18 +1,6 @@
 # Student Performance Analysis – Hive, Scala Spark, PySpark
 
-## 📁 Proje Yapısı
-
-project/
-│
-├── hive_queries.sql
-├── scala_analysis.scala
-├── pyspark_analysis.py
-└── README.md
-└── Rapor
-└── student-mat.csv
-
-
-## 📊 Kullanılan Veri Seti
+## Kullanılan Veri Seti
 **student-mat.csv** dosyası; öğrencilerin demografik bilgileri, aile yapısı, sosyal aktiviteleri, çalışma süreleri ve üç sınav notunu (G1, G2, G3) içermektedir.
 
 Veri seti HDFS üzerinde şu dizinde tutulmuştur:
